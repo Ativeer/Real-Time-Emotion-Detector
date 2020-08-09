@@ -19,9 +19,13 @@ Following steps are only if you want a demo of it, for training please download 
 3. On command line, go to the folder where this is cloned.
 4. Enter the command python model_load.py -m <model_name> -n <name_of_the_output_video_file>
 5. Options for model_name:
+
 	a. VGG for VGG16 model
+
 	b. CNN for Custom made CNN
+
 	c. Mobile for MobileNetV2
+
 6. Name of the Video file is optional.
 7. Press Q to Exit at anytime you want
 
