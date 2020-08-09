@@ -6,6 +6,10 @@
 
 Date: 08/09/2020
 
+##### Data for this project can be found here https://drive.google.com/file/d/1nl2Zjo-MiQ40PnxvyeIJWy6xSPQXe8Wk/view?usp=sharing
+
+##### Link to Kaggle Competition: https://www.kaggle.com/deadskull7/fer2013
+
 ##### Steps for Implementation:
 
 Following steps are only if you want a demo of it, for training please download different script inside the Training_Folder (steps mentioned ahead)
