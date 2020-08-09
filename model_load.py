@@ -58,7 +58,7 @@ while True:
         break
     
     frame = cv2.flip(frame, 1)
-    facecasc = cv2.CascadeClassifier('detect_frontal_face/haarcascade_frontalface_default.xml')
+    facecasc = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
     faces = facecasc.detectMultiScale(gray,scaleFactor=1.3, minNeighbors=5)
 
