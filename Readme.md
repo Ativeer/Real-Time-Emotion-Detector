@@ -36,3 +36,6 @@ If you want to run the training file:
 4. Run the script.
 5. Make sure you change the path where you want to download the trained model
 
+
+#### Colab Script:
+https://colab.research.google.com/drive/1x2ov2vToWp5MRlj-87xInWpWx17C43mN?usp=sharing
